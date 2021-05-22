@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SpotifyPlay/static/css/main.5e064d3a.chunk.css",
-    "main.js": "/SpotifyPlay/static/js/main.16624afe.chunk.js",
-    "main.js.map": "/SpotifyPlay/static/js/main.16624afe.chunk.js.map",
-    "runtime-main.js": "/SpotifyPlay/static/js/runtime-main.28a3d291.js",
-    "runtime-main.js.map": "/SpotifyPlay/static/js/runtime-main.28a3d291.js.map",
-    "static/js/2.d622996b.chunk.js": "/SpotifyPlay/static/js/2.d622996b.chunk.js",
-    "static/js/2.d622996b.chunk.js.map": "/SpotifyPlay/static/js/2.d622996b.chunk.js.map",
-    "index.html": "/SpotifyPlay/index.html",
-    "precache-manifest.eaef47deed826253086ef2a98d01625e.js": "/SpotifyPlay/precache-manifest.eaef47deed826253086ef2a98d01625e.js",
-    "service-worker.js": "/SpotifyPlay/service-worker.js",
-    "static/css/main.5e064d3a.chunk.css.map": "/SpotifyPlay/static/css/main.5e064d3a.chunk.css.map",
-    "static/js/2.d622996b.chunk.js.LICENSE": "/SpotifyPlay/static/js/2.d622996b.chunk.js.LICENSE",
-    "static/media/App.css": "/SpotifyPlay/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/Spotifyplay/static/css/main.5cd05cd7.chunk.css",
+    "main.js": "/Spotifyplay/static/js/main.16624afe.chunk.js",
+    "main.js.map": "/Spotifyplay/static/js/main.16624afe.chunk.js.map",
+    "runtime-main.js": "/Spotifyplay/static/js/runtime-main.560f6958.js",
+    "runtime-main.js.map": "/Spotifyplay/static/js/runtime-main.560f6958.js.map",
+    "static/js/2.d622996b.chunk.js": "/Spotifyplay/static/js/2.d622996b.chunk.js",
+    "static/js/2.d622996b.chunk.js.map": "/Spotifyplay/static/js/2.d622996b.chunk.js.map",
+    "index.html": "/Spotifyplay/index.html",
+    "precache-manifest.4089286afefbc752576241c3a753b1c1.js": "/Spotifyplay/precache-manifest.4089286afefbc752576241c3a753b1c1.js",
+    "service-worker.js": "/Spotifyplay/service-worker.js",
+    "static/css/main.5cd05cd7.chunk.css.map": "/Spotifyplay/static/css/main.5cd05cd7.chunk.css.map",
+    "static/js/2.d622996b.chunk.js.LICENSE": "/Spotifyplay/static/js/2.d622996b.chunk.js.LICENSE",
+    "static/media/App.css": "/Spotifyplay/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28a3d291.js",
+    "static/js/runtime-main.560f6958.js",
     "static/js/2.d622996b.chunk.js",
-    "static/css/main.5e064d3a.chunk.css",
+    "static/css/main.5cd05cd7.chunk.css",
     "static/js/main.16624afe.chunk.js"
   ]
 }
