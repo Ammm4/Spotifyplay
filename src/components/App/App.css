@@ -45,6 +45,13 @@ h2 {
   width: 100%;
 }
 
+.error-container{
+  text-align: center;
+  margin-top: -2rem;
+  margin-bottom: 1rem;
+  color:red
+}
+
 @media only screen and (max-width: 1020px) {
   .App-playlist {
     align-items: center;

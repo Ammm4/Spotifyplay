@@ -23,10 +23,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 72px;
+  min-height: 72px;
+  box-sizing: border-box;
 }
 
-.Track-information h3 {
+.Track-information h4 {
   margin-bottom: .22rem;
 }
 
